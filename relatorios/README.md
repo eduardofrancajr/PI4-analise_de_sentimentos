@@ -1,1 +1,1 @@
-Relatórios descrevendo os resultados  adquiridos no decorrer do projeto
+Relatórios descrevendo os resultados adquiridos no decorrer do Projeto.
